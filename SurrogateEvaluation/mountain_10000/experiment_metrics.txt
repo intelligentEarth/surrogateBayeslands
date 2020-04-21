@@ -1,0 +1,4 @@
+
+time elapsed (mins):,114.364443986
+RMSE sediment:,0.0
+RMSE overall:,90.7501614062

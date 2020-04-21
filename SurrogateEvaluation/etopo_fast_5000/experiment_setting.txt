@@ -1,0 +1,241 @@
+
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
+samples:,500
+burnin:,0.1
+num params:,6
+initial_proposed_vec:,[  5.58780634e-01   4.38224291e-06   7.93534948e-01   1.07763347e+00
+   7.67677806e-01   5.74087800e-01]
+stepsize_vec:,[  6.00000000e-02   8.00000000e-08   4.00000000e-02   4.00000000e-02
+   8.00000000e-03   8.00000000e-03]
+step_ratio_vec:,[ 0.02  0.02  0.02  0.02  0.02  0.02]
+swap interval:,50
+surrogate interval:,150
+sim interval:,[     0 125000 250000 375000 500000]
+surrogate probability:,0.1
+likelihood_sed (T/F):,False
+erodep_coords:,[[42 10]
+ [39  8]
+ [75 51]
+ [59 13]
+ [40  5]
+ [ 6 20]
+ [14 66]
+ [ 4 40]
+ [72 73]
+ [46 64]]
+sed scaling factor:,50
