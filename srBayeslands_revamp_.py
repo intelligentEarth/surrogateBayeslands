@@ -410,7 +410,7 @@ class ptReplica(multiprocessing.Process):
             tectonicValues=pandas.read_csv(str(model.input.tectFile[0]),sep=r'\s+',header=None,dtype=np.float).values
         
             #Adjust the parameters by our value k, and save them out
-            newFile = "Examples/mountain_nath/mountaindata/tect/uplift"+str(self.temperature)+"_"+str(k)+".csv"
+            newFile = "Examples/mountain_data/mountaindata/tect/uplift"+str(self.temperature)+"_"+str(k)+".csv"
             newtect = pandas.DataFrame(tectonicValues*k)
             newtect.to_csv(newFile,index=False,header=False)
             
