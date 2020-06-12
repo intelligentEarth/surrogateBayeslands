@@ -4,9 +4,9 @@ echo Running all
  
 replica=8
 swapint=3 
-samples=1000
+samples=5000
 maxtemp=2
-burn=0.45
+burn=0.5
 pt_stage=0.5
 raintimeint=4 
 
@@ -15,7 +15,7 @@ echo $problem
   
 for problem in  3  #1 2
  	do
-	for surrogate_interval in  0.10 #0.05 0.10 0.15  # this is for surrogate interval 
+	for surrogate_interval in  0.05 #0.05 0.10 0.15  # this is for surrogate interval 
   		do
 		for surrogate_probability in  0 0.6 #0.2 0.4 0.6 0.8 
 			do   

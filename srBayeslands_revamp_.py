@@ -314,9 +314,9 @@ class ptReplica(multiprocessing.Process):
         self.minY = np.zeros((1,1))
         self.maxY = np.ones((1,1)) 
 
-        self.compare_surrogate = True
+        self.compare_surrogate = compare_surrogate
 
-                #SURROGATE VARIABLES
+                #SURROGATE VARIABLEScompare_surrogate
         self.surrogate_parameter_queue = surrogate_parameterqueue
         self.surrogate_start = surrogate_start
         self.surrogate_resume = surrogate_resume
@@ -1677,7 +1677,7 @@ def main():
     #surrogate_prob = surrogate_prob
     save_surrogatedata = True
     use_surrogate = True
-    compare_surrogate = True
+    compare_surrogate = False
 
     #-------------------------------------------------------------------------------------
     #Create A a Patratellel Tempring object instance 
