@@ -18,11 +18,7 @@ The framework is built using:
 
 * [Parallel tempering Bayeslands](https://github.com/intelligentEarth/pt-Bayeslands)
 * [R. Chandra et. al, Multicore Parallel Tempering Bayeslands for Basin and Landscape Evolution](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008465) with  [Arxiv open access](https://arxiv.org/abs/1806.10939)
-* [Badlands model](https://github.com/badlands-model/badlands)
-* [Badlands installation](htt
-
-
-
+* [Badlands model](https://github.com/badlands-model/badlands) 
   
 
 ### Installation

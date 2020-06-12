@@ -3,7 +3,7 @@
 echo Running all 	 
 
 problem=2
-replica=4
+replica=8
 swapint=10 # same as surogate interval 
 #samples=4000
 maxtemp=2
@@ -17,14 +17,13 @@ echo $problem
 
 
  
-for samples in  2000
+for samples in  1000 10000 10000 10000 10000 10000
 	do  
  
-			python srBayeslands_revamp_swap.py -p $problem -s $samples -r $replica -t $maxtemp -swap $swapint -b $burn -pt $pt_stage  -epsilon $initialtopoep -rain_intervals $raintimeint -surrogate $surrogate_probability
+			python srBayeslands_revamp_swap_ashray.py -p $problem -s $samples -r $replica -t $maxtemp -swap $swapint -b $burn -pt $pt_stage  -epsilon $initialtopoep -rain_intervals $raintimeint -surrogate $surrogate_probability
 			python realtime_visualise_results.py -p $problem -s $samples -r $replica -t $maxtemp -swap $swapint -b $burn -pt $pt_stage  -epsilon $initialtopoep -rain_intervals $raintimeint
 
   
   
 	done 
  
-
