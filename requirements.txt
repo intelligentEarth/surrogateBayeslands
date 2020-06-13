@@ -1,7 +1,0 @@
-tribad
-gFlex
-keras
-tensorflow==1.15
-matplotlib
-seaborn
-badlands/
